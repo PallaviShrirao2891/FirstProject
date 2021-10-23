@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/palla/Downloads/Pallavi JBK Data/Softwares/javabykiran-Selenium-Softwares/selenium-server-standalone-3.141.59.jar" sourcepath="C:/Users/palla/eclipse-workspace/src.zip"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/palla/Downloads/Pallavi JBK Data/Softwares/javabykiran-Selenium-Softwares/jxl-2.6.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
