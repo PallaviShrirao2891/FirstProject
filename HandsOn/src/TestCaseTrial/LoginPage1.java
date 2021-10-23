@@ -103,6 +103,11 @@ public class LoginPage1 {
 	 * actReg = driver.getTitle(); Assert.assertEquals(actReg,
 	 * "JavaByKiran | Registration Page"); }
 	 */
+	@Test(priority = 100)
+	public void testOnGit() {
+		System.out.println("Project on My GitHub....");
+	}
+	
 	@AfterSuite
 	public void tearDown() {
 		driver.quit();
